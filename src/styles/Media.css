@@ -1,0 +1,522 @@
+/* ///////////////////////////////////////////////////////// */
+/* ///////////////////////// Media ///////////////////////// */
+/* ///////////////////////////////////////////////////////// */
+
+/* ////////////// Home Image Media ////////////// */
+/* ////////////// max_1669px */
+@media (max-width: 1669px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 48vw;
+    min-height: 48vw;
+  }
+}
+
+/* ////////////// max_1620px */
+@media (max-width: 1620px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 52vw;
+    min-height: 52vw;
+  }
+}
+
+/* ////////////// max_1496px */
+@media (max-width: 1496px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 55vw;
+    min-height: 55vw;
+  }
+}
+
+/* ////////////// max_1412px */
+@media (max-width: 1412px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 63vw;
+    min-height: 63vw;
+  }
+}
+
+/* ////////////// max_1234px */
+@media (max-width: 1234px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 70vw;
+    min-height: 70vw;
+  }
+}
+
+/* ////////////// max_1111px */
+@media (max-width: 1111px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 85vw;
+    min-height: 85vw;
+  }
+}
+
+/* ////////////// max_1028px */
+@media (max-width: 1028px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 120vw;
+    min-height: 120vw;
+  }
+
+  .font-size {
+    font-size: 88px;
+  }
+}
+
+/* ////////////// max_1024px */
+@media (max-width: 1024px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 158vw;
+    min-height: 158vw;
+  }
+
+  .font-size {
+    font-size: 73px;
+  }
+}
+
+/* ////////////// max_914px */
+@media (max-width: 914px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 95vw;
+    min-height: 95vw;
+  }
+}
+
+/* ////////////// max_819px */
+@media (max-width: 819px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 120vw;
+    min-height: 120vw;
+  }
+}
+
+/* ////////////// max_650px */
+@media (max-width: 650px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 130vw;
+    min-height: 130vw;
+  }
+
+  .font-size {
+    font-size: 75px;
+  }
+}
+
+/* ////////////// max_600px */
+@media (max-width: 600px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 139vw;
+    min-height: 139vw;
+  }
+
+  .font-size {
+    font-size: 70px;
+  }
+}
+
+/* ////////////// max_600px */
+@media (max-width: 600px) {
+  .w3-modal-content {
+    margin: 0 10px;
+    width: auto !important;
+  }
+
+  .w3-modal {
+    padding-top: 30px;
+  }
+
+  .w3-dropdown-hover.w3-mobile .w3-dropdown-content,
+  .w3-dropdown-click.w3-mobile .w3-dropdown-content {
+    position: relative;
+  }
+
+  .w3-hide-small {
+    display: none !important;
+  }
+
+  .w3-mobile {
+    display: block;
+    width: 100% !important;
+  }
+
+  .w3-bar-item.w3-mobile,
+  .w3-dropdown-hover.w3-mobile,
+  .w3-dropdown-click.w3-mobile {
+    text-align: center;
+  }
+
+  .w3-dropdown-hover.w3-mobile,
+  .w3-dropdown-hover.w3-mobile .w3-btn,
+  .w3-dropdown-hover.w3-mobile .w3-button,
+  .w3-dropdown-click.w3-mobile,
+  .w3-dropdown-click.w3-mobile .w3-btn,
+  .w3-dropdown-click.w3-mobile .w3-button {
+    width: 100%;
+  }
+
+  .w3-image-home {
+    height: 60vw;
+  }
+}
+
+/* ////////////// max_768px */
+@media (max-width: 768px) {
+  .w3-modal-content {
+    width: 500px;
+  }
+
+  .w3-modal {
+    padding-top: 50px;
+  }
+
+  .w3-image-home {
+    height: 100vw;
+  }
+}
+
+/* ////////////// min_993px */
+@media (min-width: 993px) {
+  .w3-modal-content {
+    width: 900px;
+  }
+
+  .w3-hide-large {
+    display: none !important;
+  }
+
+  .w3-sidebar.w3-collapse {
+    display: block !important;
+  }
+}
+
+/* ////////////// max_992px min_601px */
+@media (max-width: 992px) and (min-width: 601px) {
+  .w3-hide-medium {
+    display: none !important;
+  }
+
+  .w3-image-home {
+    height: 100vw;
+  }
+}
+
+/* ////////////// max_992px */
+@media (max-width: 992px) {
+  .w3-sidebar.w3-collapse {
+    display: none;
+  }
+
+  .w3-main {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .w3-auto {
+    max-width: 100%;
+  }
+}
+
+/* ////////////// min_601px */
+@media (min-width: 601px) {
+  .w3-col.m1 {
+    width: 8.33333%;
+  }
+
+  .w3-col.m2 {
+    width: 16.66666%;
+  }
+
+  .w3-col.m3,
+  .w3-quarter {
+    width: 24.99999%;
+  }
+
+  .w3-col.m4,
+  .w3-third {
+    width: 33.33333%;
+  }
+
+  .w3-col.m5 {
+    width: 41.66666%;
+  }
+
+  .w3-col.m6,
+  .w3-half {
+    width: 49.99999%;
+  }
+
+  .w3-col.m7 {
+    width: 58.33333%;
+  }
+
+  .w3-col.m8,
+  .w3-twothird {
+    width: 66.66666%;
+  }
+
+  .w3-col.m9,
+  .w3-threequarter {
+    width: 74.99999%;
+  }
+
+  .w3-col.m10 {
+    width: 83.33333%;
+  }
+
+  .w3-col.m11 {
+    width: 91.66666%;
+  }
+
+  .w3-col.m12 {
+    width: 99.99999%;
+  }
+
+  .w3-image-home {
+    height: 155vw;
+  }
+
+  .w3-image-home {
+    height: 76vw;
+  }
+
+  .w3-image-home {
+    height: 106vw;
+  }
+
+  .w3-image-home {
+    height: 150vw;
+  }
+}
+
+/* ////////////// min_993px */
+@media (min-width: 993px) {
+  .w3-col.l1 {
+    width: 8.33333%;
+  }
+
+  .w3-col.l2 {
+    width: 16.66666%;
+  }
+
+  .w3-col.l3 {
+    width: 24.99999%;
+  }
+
+  .w3-col.l4 {
+    width: 33.33333%;
+  }
+
+  .w3-col.l5 {
+    width: 41.66666%;
+  }
+
+  .w3-col.l6 {
+    width: 49.99999%;
+  }
+
+  .w3-col.l7 {
+    width: 58.33333%;
+  }
+
+  .w3-col.l8 {
+    width: 66.66666%;
+  }
+
+  .w3-col.l9 {
+    width: 74.99999%;
+  }
+
+  .w3-col.l10 {
+    width: 83.33333%;
+  }
+
+  .w3-col.l11 {
+    width: 91.66666%;
+  }
+
+  .w3-col.l12 {
+    width: 99.99999%;
+  }
+
+  .w3-image-home {
+    height: 160vw;
+  }
+}
+
+/* ///////////////////////////////////////////// */
+/* ////////////// Home Image Mobil ///////////// */
+/* ///////////////////////////////////////////// */
+
+/* ////////////// max_414px */
+@media (max-width: 414px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 178vw;
+    min-height: 178vw;
+  }
+
+  .font-size {
+    font-size: 70px;
+  }
+}
+
+/* ////////////// max_412px */
+@media (max-width: 412px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 195vw;
+    min-height: 195vw;
+  }
+
+  .font-size {
+    font-size: 70px;
+  }
+}
+
+/* ////////////// max_820px */
+@media (max-width: 820px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 145vw;
+    min-height: 145vw;
+  }
+
+  .font-size {
+    font-size: 70px;
+  }
+}
+
+/* ////////////// max_912px */
+@media (max-width: 912px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 148vw;
+    min-height: 148vw;
+  }
+
+  .font-size {
+    font-size: 70px;
+  }
+}
+
+/* ////////////// max_280px */
+@media (max-width: 280px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 180vw;
+    min-height: 180vw;
+  }
+
+  .font-size {
+    font-size: 50px;
+  }
+
+  .w3-size {
+    font-size: 13px;
+  }
+}
+
+/* ////////////// max_412px */
+@media (max-width: 412px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 188vw;
+    min-height: 188vw;
+  }
+
+  .font-size {
+    font-size: 73px;
+  }
+}
+
+/* ////////////// max_1024px */
+@media (max-width: 1024px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 58vw;
+    /* min-height: 58vw; */
+  }
+
+  .font-size {
+    font-size: 73px;
+  }
+}
+
+/* ///////////////////////////////////////////// */
+
+/* ////////////// max_1205px */
+@media (max-width: 1205px) {
+  .w3-auto {
+    max-width: 95%;
+  }
+
+  /* .w3-image-home {
+    height: 50vw;
+  } */
+}
+
+
+/* ////////////// max_525px */
+@media (max-width: 525px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 188vw;
+    min-height: 188vw;
+  }
+
+  .font-size {
+    font-size: 73px;
+  }
+}
+
+/* ////////////// max_413px */
+@media (max-width: 413px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 226vw;
+    min-height: 226vw;
+  }
+
+  .font-size {
+    font-size: 73px;
+  }
+}
+
+/* ////////////// max_343px */
+@media (max-width: 343px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 266vw;
+    min-height: 266vw;
+  }
+
+  .font-size {
+    font-size: 73px;
+  }
+}
+
+/* ////////////// max_290px */
+@media (max-width: 290px) {
+  .w3-image-home {
+    width: 100%;
+    max-height: 296vw;
+    min-height: 296vw;
+  }
+
+  .font-size {
+    font-size: 55px;
+  }
+}
